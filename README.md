@@ -6,4 +6,4 @@ This repository contains the MATLAB code used in the development, implementation
 
 The simulation framework was developed in MATLAB R2025a and requires the MSS Toolbox to run. The code was created as part of a complete simulation-based design process, where aerodynamic data, vehicle dynamics, guidance algorithms, and control strategies were combined to investigate the behavior and performance of the vehicle in flight.
 
-MSS Toolbox can be found in: https://github.com/cybergalactic/MSS
+MSS Toolbox can be found in: https://github.com/cybergalactic/MSS Developed by Professor Thor Inge Fossen
